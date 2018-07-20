@@ -36,7 +36,7 @@ sleep 3
 
 while true
      python2.7 clicklike.py
-     sleep 2
+     sleep 120
      osascript -e '
      set thescript to "if((window.pageYOffset + window.innerHeight)<document.body.clientHeight)
 		{

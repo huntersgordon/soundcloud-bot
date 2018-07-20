@@ -6,4 +6,4 @@ Likes songs of a certain genre once per 120 secs (as to not get banned)
 
 to run: ```fish soundcloudbot.fish```
 
-My soundcloud: (soundcloud.com/huntersgordon)
+My soundcloud: [dj hunty](https://www.soundcloud.com/huntersgordon)

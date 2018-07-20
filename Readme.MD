@@ -1,4 +1,4 @@
-#Soundcloud Bot
+# Soundcloud Bot
 
 Likes songs of a certain genre once per 120 secs (as to not get banned)
 
